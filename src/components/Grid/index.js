@@ -12,4 +12,4 @@ const Grid = ({ header, children }) => (
   </Wrapper>
 );
 
-export default Grid
+export default Grid;
