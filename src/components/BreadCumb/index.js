@@ -19,7 +19,7 @@ const BreadCumb = ({movieTitle}) => (
 
 BreadCumb.propTypes = {
   movieTitle: PropTypes.string,
-  
+
 }
 
 export default BreadCumb;
